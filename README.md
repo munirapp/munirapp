@@ -1,6 +1,9 @@
 ![CoverGithub](https://raw.githubusercontent.com/munirapp/munirapp/master/cover-github1.png)
 
 ### Hi there 👋
+let's :computer: code, :hugs: sharing and :test_tube: experiment 
+
+
 
 <!--
 **munirapp/munirapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
