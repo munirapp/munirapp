@@ -21,4 +21,7 @@ javascript
 	•	amazon web service
 
  ## See My Detail Resume
- https://cv.munirverse.com/en
+ https://cv.munirverse.com
+
+ ## Reach Me on Email
+ hello@munirverse.com
