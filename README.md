@@ -1,21 +1,24 @@
-![CoverGithub](https://raw.githubusercontent.com/munirapp/munirapp/master/cover-github1.png)
+## Summary
+I am an experienced professional software engineer currently specializing in full-stack web development and software architecture. By carefully navigating the intricacies of agile methodology, I ensure seamless development of user experience analysis, quality assurance, and CI/CD practices. My strong commitment to excellence drives me to meet challenges and innovate in the dynamic landscape of software development, continually designing robust solutions that exceed industry standards.
 
-### Hi there 👋
-let's :computer: code, :hugs: sharing and :test_tube: experiment 
+## Skills
+javascript
+	•	typescript
+	•	node.js
+	•	react
+	•	vue
+	•	laravel
+	•	python
+	•	flask
+	•	mysql
+	•	postgresql
+	•	mongodb
+	•	docker
+	•	elasticsearch
+	•	bigquery
+	•	kubernetes
+	•	google cloud
+	•	amazon web service
 
-
-
-<!--
-**munirapp/munirapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## See My Detail Resume
+ https://cv.munirverse.com/en
