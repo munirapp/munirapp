@@ -7,5 +7,5 @@ I am an experienced professional software engineer currently specializing in ful
  ## See My Detail Resume
  https://cv.munirverse.com
 
- ## Reach Me on Email
+ ## Reach Me 
  hello@munirverse.com
