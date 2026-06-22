@@ -1,11 +1,13 @@
 ## Summary
-I am an experienced professional software engineer currently specializing in full-stack web development and software architecture. By carefully navigating the intricacies of agile methodology, I ensure seamless development of user experience analysis, quality assurance, and CI/CD practices. My strong commitment to excellence drives me to meet challenges and innovate in the dynamic landscape of software development, continually designing robust solutions that exceed industry standards.
+I am a full-stack software engineer with 11+ years of experience designing and delivering production systems across startup, corporate, and government environments. I specialize in building secure, scalable Web3-enabled applications, combining smart contract architecture, NFT standards, blockchain integrations, and robust backend systems.
+
+
 
 ## Skills
 [![Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,laravel,python,flask,mysql,postgresql,mongodb,docker,elasticsearch,django,kubernetes,gcp,aws&perline=16)](https://cv.munirverse.com)
 
  ## See My Detail Resume
- https://cv.munirverse.com
+ https://cv.munirhub.com
 
  ## Reach Me 
- hello@munirverse.com
+ hello@munirhub.com
